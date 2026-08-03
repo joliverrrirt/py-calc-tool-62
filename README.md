@@ -1,2 +1,4 @@
-# py-calc-tool-62
+# Py Calc Tool 62
+
 A simple CLI calculator built in Python for basic math operations.
+
